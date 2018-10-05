@@ -1,0 +1,10 @@
+[package]
+name = "atsam4s16b-rs"
+version = "0.1.0"
+authors = ["Nick Mosher <nicholastmosher@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cortex-m = "0.5.7"
+bare-metal = "0.2.3"
+vcell = "0.1.0"
