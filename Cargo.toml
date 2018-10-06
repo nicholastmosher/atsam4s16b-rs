@@ -1,5 +1,5 @@
 [package]
-name = "atsam4s16b-rs"
+name = "atsam4s16b"
 version = "0.1.0"
 authors = ["Nick Mosher <nicholastmosher@gmail.com>"]
 edition = "2018"
